@@ -1,0 +1,43 @@
+{
+  "employee_details": {
+    "row1": {
+      "emp_id":101 ,
+      "emp_name": "raj",
+	  "emp_gender":"M",
+	  "emp_dept":"testing"
+    },
+    "row2": {
+      "emp_id":102 ,
+      "emp_name": "ravi",
+	  "emp_gender":"M",
+	  "emp_dept":"marketing"
+    },
+    "row3": {
+      "emp_id":201 ,
+      "emp_name": "nikhil",
+	  "emp_gender":"M",
+	  "emp_dept":"testing"
+    },
+    "row4": {
+      "emp_id":202 ,
+      "emp_name": "radhika",
+	  "emp_gender":"F",
+	  "emp_dept":"testing"
+    },
+    "row5": {
+      "emp_id":203 ,
+      "emp_name": "nidhi",
+	  "emp_gender":"F",
+	  "emp_dept":"development"
+    }
+  },
+  "login": {
+  "user_names": ["Rambo","Margeret","Jatin" ],
+  "user_type":["Prod owner","Scrum master","test head"],
+  "products":["eDoc","eScanner","Printer"]
+  },
+  "reports": {
+  "type": ["marketing","sales","new_products","accounts","hr"],
+  "frequency":["halfyearly","quarterly","annual","monthly","monthly"]
+  }
+}
